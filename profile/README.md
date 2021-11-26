@@ -5,5 +5,8 @@
 **[EN]** The Myodev project uses embedded EMGs (ElectroMyoGramme de Surface) technology to propose innovative solutions in the field of health and sport.
 
 ## Links / Lien
-- Analyse de signal / Signal analysis : [myodev-signal-analysis.herokuapp.com](https://myodev-signal-analysis.herokuapp.com/)
-- ...
+
+| Title / Titre                          | Link / Lien                                                                           |
+|----------------------------------------|---------------------------------------------------------------------------------------|
+| 📶 Analyse de signal / Signal analysis | [myodev-signal-analysis.herokuapp.com](https://myodev-signal-analysis.herokuapp.com/) |
+
