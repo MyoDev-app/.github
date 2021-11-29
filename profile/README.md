@@ -6,7 +6,8 @@
 
 ## Links / Lien
 
-| Title / Titre                          | Link / Lien                                                                           |
-|----------------------------------------|---------------------------------------------------------------------------------------|
-| 📶 Analyse de signal / Signal analysis | [myodev-signal-analysis.herokuapp.com](https://myodev-signal-analysis.herokuapp.com/) |
+| Title / Titre                           | Link / Lien                                                                           |
+|-----------------------------------------|---------------------------------------------------------------------------------------|
+| Analyse de signal / Signal analysis  📶 | [myodev-signal-analysis.herokuapp.com](https://myodev-signal-analysis.herokuapp.com/) |
+| Rest API                             🤖 | [myodev-api.herokuapp.com/documentation](https://myodev-api.herokuapp.com/documentation) |
 
