@@ -11,3 +11,4 @@
 | Analyse de signal / Signal analysis  📶 | [myodev-signal-analysis.herokuapp.com](https://myodev-signal-analysis.herokuapp.com/) |
 | Rest API                             🤖 | [myodev-api.herokuapp.com/documentation](https://myodev-api.herokuapp.com/documentation) |
 | Pypi Python package                  🐍 | [pypi.org/project/myodev](https://pypi.org/project/myodev/)|
+| GitBook                              📘 | [itokiana-rafidinarivo.gitbook.io/myodev/](https://itokiana-rafidinarivo.gitbook.io/myodev/) |
