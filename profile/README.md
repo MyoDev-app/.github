@@ -4,5 +4,5 @@ Le projet Myodev utilise la technologie EMGs (ElectroMyoGramme de Surface) embar
 
 | Titre                                   | Lien                                                                           |
 |-----------------------------------------|---------------------------------------------------------------------------------------|
-| Analyse de signal / Signal analysis  📶 | [myodev-signal-analysis.herokuapp.com](https://myodev-signal-analysis.herokuapp.com/) |
+| Analyse de signal / Signal analysis  📶 | [signal.myodev.fr](http://signal.myodev.fr) |
 | Rest API                             🤖 | [api.myodev.fr/v2/documentation](http://api.myodev.fr/v2/documentation) |
